@@ -1,5 +1,5 @@
 # Fake News Detection Project
-The following repo details my data science project on Fake News Detection using Python. I have used a Term Frequency - Inverse Document Frequency Vectorizer along with a Passive Aggressive Classifier for this project. Additionally, I have submitted my final predictions on the test dataset on kaggle.com and received the Final Score of 95.256%.
+The following repo details my data science project on Fake News Detection using Python. I have used a Term Frequency - Inverse Document Frequency Vectorizer along with a Passive Aggressive Classifier for this project. Additionally, I have submitted my final predictions on the test dataset on [kaggle.com](https://www.kaggle.com/c/fake-news) and received the Final Score of 95.256%.
 
 # Problem Statement
 Fake News refers to news that may be hoaxes, generally spread through social media and other online media. The aim behind circulating fake news is to impose specific ideas or claims onto a large audience. It leads to a lack of trust in the media, which can cause significant ramifications in society.
